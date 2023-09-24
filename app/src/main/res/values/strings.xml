@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CamLy</string>
+    <string name="sign_in">You have an account? <b>Sign in</b></string>
+</resources>
